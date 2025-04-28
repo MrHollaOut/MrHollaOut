@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio
+# Cybersecurity Portfolio of R. Anthony McCoy
 
 Welcome! I'm a motivated cybersecurity professional specializing in Incident Response, Digital Forensics, and Threat Intelligence.
 
@@ -6,7 +6,7 @@ This portfolio showcases my hands-on projects, reports, scripts, and CTF achieve
 
 ---
 
-## 🔥 About Me
+## 🔥 About R. Anthony McCoy
 
 Motivated cybersecurity specialist with a focus on Incident Response and Digital Forensics. I bring extensive hands-on experience in system monitoring, threat detection, malware analysis, and vulnerability assessment.
 
@@ -63,10 +63,17 @@ Recent graduate of the Federal Cyber Defense Skilling Academy, with certificatio
 - Certified in Cybersecurity (ISC2) (2024)
 - Google IT Support Professional Certificate (2023)
 
+![CompTIA CySA+](https://img.shields.io/badge/CompTIA%20CySA%2B-4EAA33?style=for-the-badge&logo=compTIA&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-5F8F2A?style=for-the-badge&logo=compTIA&logoColor=white)
+![Fortinet Certified Associate](https://img.shields.io/badge/Fortinet%20Certified%20Associate-FFA500?style=for-the-badge&logo=fortinet&logoColor=white)
+![Certified in Cybersecurity (ISC2)](https://img.shields.io/badge/Certified%20in%20Cybersecurity%20(ISC2)-1C4E80?style=for-the-badge&logo=ISC2&logoColor=white)
+![Google IT Support Professional](https://img.shields.io/badge/Google%20IT%20Support%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+
 ---
 
 ## 📫 Contact
-- [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-here)
+- [LinkedIn Profile](https://www.linkedin.com/in/ranthonymccoy/)
 - [GitHub Profile](https://github.com/your-github-username)
 - (Optional: Portfolio Website Link)
 
